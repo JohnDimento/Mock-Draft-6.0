@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .nav-link {
+    @apply text-text-primary hover:text-espn-red px-4 py-2 text-sm font-medium transition-colors duration-200;
+  }
+  
+  .draft-card {
+    @apply bg-espn-gray rounded-lg p-4 mb-4 hover:bg-card-hover transition-all duration-200 relative overflow-hidden;
+  }
+  
+  .draft-card:hover .card-content {
+    @apply blur-sm;
+  }
+  
+  .draft-card:hover .card-description {
+    @apply opacity-100;
+  }
+  
+  .card-content {
+    @apply transition-all duration-200;
+  }
+  
+  .card-description {
+    @apply absolute inset-0 bg-overlay-bg backdrop-blur-sm p-4 opacity-0 transition-opacity duration-200 flex items-center justify-center;
+  }
+  
+  .pick-number {
+    @apply text-espn-red font-bold text-xl;
+  }
+  
+  .team-name {
+    @apply text-text-tertiary text-sm font-medium;
+  }
+  
+  .player-name {
+    @apply text-text-primary text-lg font-semibold;
+  }
+  
+  .player-position {
+    @apply text-text-tertiary text-sm;
+  }
+
+  .description-text {
+    @apply text-text-primary;
+  }
+
+  .description-subtext {
+    @apply text-text-tertiary text-sm mt-2;
+  }
+} 

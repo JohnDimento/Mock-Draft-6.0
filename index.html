@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CharaniaSports - Mock Draft 6.0</title>
+    <link href="./dist/output.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="bg-espn-blue min-h-screen">
+    <!-- Navigation -->
+    <nav class="bg-white border-b border-gray-200 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <!-- Logo -->
+                <div class="flex-shrink-0">
+                    <a href="/" class="text-text-primary text-2xl font-bold">CharaniaSports</a>
+                </div>
+                
+                <!-- Navigation Links -->
+                <div class="hidden md:block">
+                    <div class="ml-10 flex items-baseline space-x-4">
+                        <a href="#" class="nav-link">Scores</a>
+                        <a href="#" class="nav-link">Mocks</a>
+                        <a href="#" class="nav-link">News</a>
+                        <a href="#" class="nav-link">Teams</a>
+                        <a href="#" class="nav-link">Players</a>
+                    </div>
+                </div>
+                
+                <!-- Mobile menu button -->
+                <div class="md:hidden">
+                    <button type="button" class="text-text-tertiary hover:text-text-primary focus:outline-none">
+                        <i class="fas fa-bars"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <!-- Header -->
+        <div class="mb-8">
+            <h1 class="text-4xl font-bold text-text-primary mb-2">Mock Draft 6.0</h1>
+            <p class="text-text-tertiary">Latest predictions and analysis for the upcoming draft</p>
+        </div>
+
+        <!-- Draft Content -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            <!-- Main Content -->
+            <div class="lg:col-span-2">
+                <!-- Round 1 -->
+                <section class="mb-8">
+                    <h2 class="text-2xl font-bold text-text-primary mb-4">Round 1</h2>
+                    <div id="round1-picks" class="space-y-4">
+                        <!-- Picks will be dynamically inserted here -->
+                    </div>
+                </section>
+
+                <!-- Round 2 -->
+                <section>
+                    <h2 class="text-2xl font-bold text-text-primary mb-4">Round 2</h2>
+                    <div id="round2-picks" class="space-y-4">
+                        <!-- Picks will be dynamically inserted here -->
+                    </div>
+                </section>
+            </div>
+
+            <!-- Sidebar -->
+            <div class="lg:col-span-1">
+                <div class="bg-espn-gray rounded-lg p-6 shadow-sm">
+                    <h3 class="text-xl font-bold text-text-primary mb-4">Latest News</h3>
+                    <div class="space-y-4">
+                        <div class="border-b border-gray-200 pb-4">
+                            <h4 class="text-text-primary font-semibold mb-2">Top Prospects to Watch</h4>
+                            <p class="text-text-tertiary">Breaking down the most promising players in this year's draft class.</p>
+                        </div>
+                        <div class="border-b border-gray-200 pb-4">
+                            <h4 class="text-text-primary font-semibold mb-2">Team Needs Analysis</h4>
+                            <p class="text-text-tertiary">Which positions are teams looking to fill in the draft?</p>
+                        </div>
+                        <div>
+                            <h4 class="text-text-primary font-semibold mb-2">Trade Rumors</h4>
+                            <p class="text-text-tertiary">Latest buzz about potential draft day trades.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Mobile Description Modal -->
+    <div id="mobile-description" class="fixed inset-0 bg-black bg-opacity-50 hidden z-50">
+        <div class="bg-white rounded-lg p-6 max-w-md mx-auto mt-20 shadow-xl">
+            <div class="flex justify-between items-start mb-4">
+                <h3 id="pick-title" class="text-xl font-bold text-text-primary"></h3>
+                <button class="text-text-tertiary hover:text-text-primary" onclick="document.getElementById('mobile-description').classList.add('hidden')">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <p id="pick-description" class="text-text-tertiary"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 
