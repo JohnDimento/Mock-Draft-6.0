@@ -24,7 +24,7 @@
   }
   
   .card-description {
-    @apply absolute inset-0 bg-overlay-bg backdrop-blur-sm p-4 opacity-0 transition-opacity duration-200 flex items-center justify-center;
+    @apply absolute inset-0 bg-overlay-bg backdrop-blur-sm p-4 opacity-0 transition-opacity duration-200 flex items-center justify-center z-10;
   }
   
   .pick-number {
@@ -44,7 +44,7 @@
   }
 
   .description-text {
-    @apply text-text-primary;
+    @apply text-text-primary text-lg font-semibold mb-2;
   }
 
   .description-subtext {
