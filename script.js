@@ -5,7 +5,7 @@ const draftData = {
             pick: 1,
             team: "Winston's Warriors",
             player: "Ashton Jeanty - RB",
-            description: "The consensus No. 1 Ashton Jeanty with their top pick. Jeanty’s explosive burst and elite contact balance let him absorb hits at the catch point and drive through defenders."
+            description: "The consensus No. 1 pick. Jeanty’s explosive burst and elite contact balance let him absorb hits at the catch point and drive through defenders."
         },
         {
             pick: 2,
