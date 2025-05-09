@@ -5,7 +5,7 @@ const draftData = {
             pick: 1,
             team: "Winston's Warriors",
             player: "Ashton Jeanty - RB",
-            description: "The undisputed consensus No. 1 prospect. Jeanty brings a rare blend of explosive straight-line speed and suddenness off the line, allowing him to consistently create separation against elite competition. His smooth route-running and sure hands give him the ceiling of a true WR1 who can instantly elevate this offense."
+            description: "The consensus No. 1 Ashton Jeanty with their top pick. Jeanty’s explosive burst and elite contact balance let him absorb hits at the catch point and drive through defenders."
         },
         {
             pick: 2,
