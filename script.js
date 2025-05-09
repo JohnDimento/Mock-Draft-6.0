@@ -11,36 +11,36 @@ const draftData = {
             pick: 2,
             team: "Winston's Warriors",
             player: "Tetairoa Mcmillan - WR",
-            description: "A tall, athletic receiver with excellent ball skills. Mcmillan provides a reliable target and red-zone presence for the Warriors' passing attack."
+            description: "A tall, athletic receiver with excellent ball skills. Mcmillan would fit perfectly into the Warrior's WR room."
         },
         {
             pick: 3,
             team: "DoosBoys",
             player: "Omarion Hampton - RB",
-            description: "A powerful runner with breakaway speed. Hampton adds a physical presence to the DoosBoys' ground game."
+            description: "Hampton is a powerful, three-down back with dependable hands and the vision to consistently hit creases. At 1.02, he perfectly addresses the DoosBoys’ need for a RB1."
         },
         {
             pick: 4,
             team: "Dropkick Murphys",
             player: "Matthew Golden - WR",
-            description: "A polished route runner with reliable hands. Golden brings consistency and playmaking ability to the Murphys' receiving corps."
+            description: "Go Pack Go, analytics may say that this is a reach, but Golden is a quick with great hands and the upside to be a true WR1 in this Packer's offense."
         },
         {
             pick: 5,
             team: "Lil Peanut's Padres",
-            player: "Travis Hunter - WR/CB",
-            description: "A rare two-way talent who can impact the game on both sides of the ball. Hunter's versatility makes him a valuable asset for the Padres."
+            player: "Cam Ward - QB",
+            description: "With only 1 starting QB on the roster, the Padres have the opportunity to draft a face of the franchise for the future of the league. It's hard to pass on the 1.01 at pick 4."
         },
         {
             pick: 6,
             team: "Watauga Whonsters",
-            player: "Quinshon Judkins - RB",
-            description: "A complete running back with power and elusiveness. Judkins brings a balanced skill set to the Whonsters' offense."
+            player: "Treveyon Henderson - RB",
+            description: "A dynamic playmaker with home-run hitting ability. Henderson adds another explosive young weapon to the Whonsters' offense."
         },
         {
             pick: 7,
             team: "Memphis Jets",
-            player: "Cam Ward - QB",
+            player: "Travis Hunter - WR/DB",
             description: "A talented quarterback with excellent arm strength and mobility. Ward has the potential to be a franchise signal-caller for the Jets."
         },
         {
