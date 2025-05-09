@@ -41,13 +41,13 @@ const draftData = {
             pick: 7,
             team: "Memphis Jets",
             player: "Travis Hunter - WR/DB",
-            description: "A talented quarterback with excellent arm strength and mobility. Ward has the potential to be a franchise signal-caller for the Jets."
+            description: "A dream scenario for the Jets. Hunter falls here because of his snap and target share risks, but the Jets are quick to scoop him up."
         },
         {
             pick: 8,
-            team: "Dropkick Murphys",
-            player: "Treveyon Henderson - RB",
-            description: "A dynamic playmaker with home-run hitting ability. Henderson adds another explosive weapon to the Murphys' offense."
+            team: "Arlington Ladds",
+            player: "Emeka Egbuka - WR",
+            description: "Landing spot is the only question here for Egbuka. With an already stacked WR room, the Ladds get to wait for Egbuka to blossom into a true WR1 as the Bucs WRs age."
         },
         {
             pick: 9,
