@@ -52,34 +52,34 @@ const draftData = {
         {
             pick: 9,
             team: "Winston's Warriors",
-            player: "Colston Loveland - TE",
-            description: "A versatile tight end with excellent receiving skills. Loveland provides a reliable target in the middle of the field."
+            player: "Quinshon Judkins - RB",
+            description: "Great value her for the Warriors. To get a back as talented as Judkins at pick 9 is a steal."
         },
         {
             pick: 10,
             team: "Highland Hawgs",
-            player: "Kaleb Johnson - RB",
-            description: "A powerful runner with good vision and balance. Johnson brings a physical presence to the Hawgs' ground game."
+            player: "Colston Loveland - TE",
+            description: "Not the flashy pick here, but the right pick. I love the value here getting Caleb Williams safety blanket for years to come."
         },
         {
             pick: 11,
             team: "Winston's Warriors",
-            player: "Emeka Egbuka - WR",
-            description: "A polished receiver with excellent route running and hands. Egbuka adds another reliable target to the Warriors' passing attack."
+            player: "Kaleb Johnson - RB",
+            description: "Getting snaps at RB in the Steelers offense is almost a guaruntee.  Mike Tomlin gets another gritty back and the Warriors get another great RB."
         },
         {
             pick: 12,
             team: "Kilpatty Vegas",
-            player: "Luther Burden - WR",
-            description: "An explosive playmaker with game-breaking ability. Burden brings big-play potential to the Vegas offense."
+            player: "Jaxson Dart - QB",
+            description: "When you think Kilpatty Vegas you think flashy. Dart is the epitome of a flashy pick and I love this landing spot."
         }
     ],
     round2: [
         {
             pick: 13,
             team: "Winston's Warriors",
-            player: "RJ Harvey - RB",
-            description: "A versatile back with good vision and receiving skills. Harvey adds depth and flexibility to the Warriors' backfield."
+            player: "Tyler Warren - TE",
+            description: "Arguably the last elite player on the board. A great trade up for the Warrirors lands them their TE of the future."
         },
         {
             pick: 14,
@@ -90,62 +90,62 @@ const draftData = {
         {
             pick: 15,
             team: "Highland Hawgs",
-            player: "Tyler Warren - TE",
-            description: "A big-bodied tight end with reliable hands. Warren provides a solid target in the red zone and middle of the field."
+            player: "RJ Harvey - RB",
+            description: "One word here, value. The Hawgs get a Sean Payton RB who should see valuable snaps in year 1."
         },
         {
             pick: 16,
             team: "Highland Hawgs",
-            player: "Jaxson Dart - QB",
-            description: "A talented quarterback with good arm strength and mobility. Dart adds depth and potential to the Hawgs' quarterback room."
+            player: "Luther Burden - WR",
+            description: "Burden was arguably the WR1 preseason. Getting him here at 16 is a great pick up for the Hawgs."
         },
         {
             pick: 17,
             team: "Lil Peanut's Padres",
-            player: "Tre Harris - WR",
-            description: "A smooth route runner with good hands. Harris adds another reliable target to the Padres' receiving corps."
+            player: "Jayden Higgins - WR",
+            description: "A huge target with great hands. The Padres get a great WR who should see the field in a ceippled Houston WR room."
         },
         {
             pick: 18,
             team: "Winston's Warriors",
-            player: "Jayden Higgins - WR",
-            description: "A tall receiver with good ball skills. Higgins provides another big target for the Warriors' passing attack."
+            player: "Tre Harris - WR",
+            description: "Dominant big play threat going into a great system. A boom or bust pick, but Tre Harris could be a sleeper WR1 for the Chargers."
         },
         {
             pick: 19,
             team: "Winston's Warriors",
             player: "Brayshul Tuten - RB",
-            description: "A versatile back with good speed and receiving ability. Tuten adds depth and flexibility to the Warriors' backfield."
+            description: "Tuten put on a show at the combine. Going into a confusing RB room in Jacksonville, he should have a chance to take the starting job."
         },
         {
             pick: 20,
             team: "The Dukes",
             player: "Jack Bech - WR",
-            description: "A reliable receiver with good hands and route running. Bech brings consistency to the Dukes' passing game."
+            description: "This pick just screams Dukes. Bech is a high motor, smart, sneaky athletic WR who just plays the game the right way."
         },
         {
             pick: 21,
             team: "Memphis Jets",
-            player: "Mason Taylor - TE",
-            description: "A promising tight end with good receiving skills. Taylor adds another weapon to the Jets' passing attack."
+            player: "Jaylin Noel - WR",
+            description: "After losing a lot of key pieces in trades, the Jets get a boom or bust weapon who could explode in the NFL."
         },
         {
             pick: 22,
             team: "Expiring Goods",
             player: "Kyle Williams - WR",
-            description: "A quick receiver with good route running ability. Williams brings speed and playmaking potential to the Goods' offense."
+            description: "A shifty receiver with good hands and route running. Williams is going into a Patriots offense with not many weapons. Expiring Goods get their guy."
         },
         {
             pick: 23,
             team: "Lil Peanut's Padres",
-            player: "Jaylin Noel - WR",
-            description: "A shifty receiver with good hands and route running. Noel adds another reliable target to the Padres' passing game."
+            player: "Pat Bryant - WR",
+            description: "The Broncos only real threat last year was Courtland Sutton. The Padre's get another piece for their push to the playoffs.",
         },
         {
             pick: 24,
             team: "Rocky Top Rowdies",
-            player: "Pat Bryant - WR",
-            description: "A physical receiver with good ball skills. Bryant brings toughness and reliability to the Rowdies' receiving corps."
+            player: "Dylan Sampson - RB",
+            description: "The Rowdies grab a hometown boy here. Judkins has already proved he is fine playing in a 2 RB system, leaving plenty of space for the SEC POTY to shine."
         }
     ]
 };
