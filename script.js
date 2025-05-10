@@ -79,7 +79,7 @@ const draftData = {
             pick: 13,
             team: "Winston's Warriors",
             player: "Tyler Warren - TE",
-            description: "Arguably the last elite player on the board. A great trade up for the Warrirors lands them their TE of the future."
+            description: "Arguably the last elite player on the board. A great trade up for the Warriors lands them their TE of the future."
         },
         {
             pick: 14,
