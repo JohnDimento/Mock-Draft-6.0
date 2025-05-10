@@ -23,13 +23,13 @@ const draftData = {
             pick: 4,
             team: "Dropkick Murphys",
             player: "Matthew Golden - WR",
-            description: "Go Pack Go, analytics may say that this is a reach, but Golden is a quick with great hands and the upside to be a true WR1 in this Packer's offense."
+            description: "Go Pack Go! Analytics may say that this is a reach, but Golden is a quick WR with great hands and the upside to take over in this Packer's offense."
         },
         {
             pick: 5,
             team: "Lil Peanut's Padres",
             player: "Cam Ward - QB",
-            description: "With only 1 starting QB on the roster, the Padres have the opportunity to draft a face of the franchise for the future of the league. It's hard to pass on the 1.01 at pick 4."
+            description: "With only 1 starting QB on the roster, the Padres have the opportunity to draft the face of their franchise for the future of the league. It's hard to pass on the 1.01 at pick 5."
         },
         {
             pick: 6,
@@ -41,7 +41,7 @@ const draftData = {
             pick: 7,
             team: "Memphis Jets",
             player: "Travis Hunter - WR/DB",
-            description: "A dream scenario for the Jets. Hunter falls here because of his snap and target share risks, but the Jets are quick to scoop him up."
+            description: "A dream scenario for the Jets. Hunter falls here because of his snap count and target share risks, but the Jets are quick to scoop him up."
         },
         {
             pick: 8,
@@ -53,13 +53,13 @@ const draftData = {
             pick: 9,
             team: "Winston's Warriors",
             player: "Quinshon Judkins - RB",
-            description: "Great value her for the Warriors. To get a back as talented as Judkins at pick 9 is a steal."
+            description: "Great pick here for the Warriors. To get a back as talented as Judkins at the 1.09 is a steal."
         },
         {
             pick: 10,
             team: "Highland Hawgs",
             player: "Colston Loveland - TE",
-            description: "Not the flashy pick here, but the right pick. I love the value here getting Caleb Williams safety blanket for years to come."
+            description: "Not the flashy pick, but the right pick. I love the value here getting Caleb Williams safety blanket for years to come."
         },
         {
             pick: 11,
@@ -71,7 +71,7 @@ const draftData = {
             pick: 12,
             team: "Kilpatty Vegas",
             player: "Jaxson Dart - QB",
-            description: "When you think Kilpatty Vegas you think flashy. Dart is the epitome of a flashy pick and I love this landing spot."
+            description: "When you think Kilpatty Vegas, you think flashy. Dart is the epitome of a flashy pick and I love this landing spot."
         }
     ],
     round2: [
